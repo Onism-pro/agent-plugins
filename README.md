@@ -1,6 +1,17 @@
-# astrbot-memory-kit
+# agent-plugins
 
-给 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 做的一套**记忆维护**小工具。不替换你的记忆插件，只在它旁边补三件它通常没有的事：
+给 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 用的插件与工具合集。
+目前收录一套**记忆维护**工具——不替换你的记忆插件，只在它旁边补三件它通常没有的事。
+
+## 目录
+
+| 路径 | 是什么 |
+|---|---|
+| `plugins/memory_rawlog/` | 原文日志插件 |
+| `scripts/` | 对话压缩、证据审计、遗忘体检 |
+| `docs/` | 设计说明、部署步骤 |
+
+## 记忆维护三件套
 
 | 层 | 解决什么 | 形态 |
 |---|---|---|

@@ -3,4 +3,4 @@ display_name: 原文日志
 desc: 按天保存对话原文（默认保留 7 天），给记忆审计和回看用
 version: 1.0.0
 author: memory-kit
-repo: https://github.com/Onism-pro/ASCII
+repo: https://github.com/Onism-pro/agent-plugins
